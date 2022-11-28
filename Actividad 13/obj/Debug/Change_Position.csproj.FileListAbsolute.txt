@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\Actividad 13\bin\Debug\Actividad 13.exe.config
+C:\Users\PC\Desktop\Actividad 13\bin\Debug\Actividad 13.exe
+C:\Users\PC\Desktop\Actividad 13\bin\Debug\Actividad 13.pdb
+C:\Users\PC\Desktop\Actividad 13\obj\Debug\Change_Position.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Actividad 13\obj\Debug\Change_Position.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Actividad 13\obj\Debug\Change_Position.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Actividad 13\obj\Debug\Actividad 13.exe
+C:\Users\PC\Desktop\Actividad 13\obj\Debug\Actividad 13.pdb
